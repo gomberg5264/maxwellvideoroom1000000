@@ -1,0 +1,28 @@
+Uri: https://video.sebastienbiollo.com/
+File Name: c:\Downloaded Web Sites\video.sebastienbiollo.com\index.htm
+Content Type: text/html
+
+Uri: https://video.sebastienbiollo.com/icon.png
+File Name: c:\Downloaded Web Sites\video.sebastienbiollo.com\icon.png
+Content Type: image/png
+
+Uri: https://video.sebastienbiollo.com/manifest.json
+File Name: c:\Downloaded Web Sites\video.sebastienbiollo.com\manifest.json
+Content Type: application/json
+
+Uri: https://video.sebastienbiollo.com/static/css/2.a54b9991.chunk.css
+File Name: c:\Downloaded Web Sites\video.sebastienbiollo.com\static\css\2.a54b9991.chunk.css
+Content Type: text/css
+
+Uri: https://video.sebastienbiollo.com/static/css/main.334789b4.chunk.css
+File Name: c:\Downloaded Web Sites\video.sebastienbiollo.com\static\css\main.334789b4.chunk.css
+Content Type: text/css
+
+Uri: https://video.sebastienbiollo.com/static/js/2.b093e94e.chunk.js
+File Name: c:\Downloaded Web Sites\video.sebastienbiollo.com\static\js\2.b093e94e.chunk.js
+Content Type: application/javascript
+
+Uri: https://video.sebastienbiollo.com/static/js/main.180d2744.chunk.js
+File Name: c:\Downloaded Web Sites\video.sebastienbiollo.com\static\js\main.180d2744.chunk.js
+Content Type: application/javascript
+
